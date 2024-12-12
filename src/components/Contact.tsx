@@ -28,7 +28,7 @@ export default function Contact() {
             <Clock className="w-8 h-8 mx-auto mb-4 text-indigo-600" />
             <h3 className="text-xl font-semibold mb-2">Hours</h3>
             <p className="text-gray-600">
-              Mon-Sat: 11:30 AM - 10:00 PM
+              Mon-Sat: 10:00 AM - 10:00 PM
               <br />
               Sun: 12:00 PM - 9:00 PM
             </p>
